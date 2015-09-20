@@ -1,3 +1,3 @@
-##Learning the sinatra framework
+##Learning the sinatra DSL
 
-There is some little program during learning the micro web framework called sinatra.
+There is some little program during learning the web develop tool called sinatra.
