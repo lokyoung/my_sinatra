@@ -35,6 +35,10 @@ get '/win_a_car' do
   "Sorry, you lost"
 end
 
+get '/test' do
+  erb :test
+end
+
 class Stream
   def each
 	100.times { |i| yield "#{i}\n"}
